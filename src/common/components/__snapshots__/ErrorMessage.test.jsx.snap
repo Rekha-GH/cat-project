@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorMessage Test ErrorMessage Call Correctly when ErrorMessage is available 1`] = `
+<div
+  className="error-message"
+>
+  error message
+</div>
+`;
+
+exports[`ErrorMessage Test ErrorMessage Call Correctly when ErrorMessage is not available 1`] = `""`;

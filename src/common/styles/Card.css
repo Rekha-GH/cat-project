@@ -1,0 +1,23 @@
+.card {
+  overflow: hidden;
+  position: relative;
+  background: rgba(0, 0, 0, 0.7);
+  margin: 0 auto;
+  color: #fff;
+}
+
+.card > .card__image {
+  width: 340px;
+  height: 340px;
+  object-fit: cover;
+}
+
+.card > .card__heart-icon {
+  position: absolute;
+  right: 0;
+  background: #000;
+}
+
+.card > .card__image-detail {
+  padding-bottom: 5px;
+}

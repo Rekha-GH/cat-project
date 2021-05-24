@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UploadImage Test UploadImage Call Correctly 1`] = `
+<div
+  className="upload-image"
+>
+  <input
+    disabled={false}
+    onChange={[Function]}
+    size="1"
+    type="file"
+  />
+  <Memo() />
+</div>
+`;

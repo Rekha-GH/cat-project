@@ -1,0 +1,7 @@
+.heart-button::before {
+  content: "♡";
+}
+
+.heart-button.heart-button--active::before {
+  content: "♥";
+}

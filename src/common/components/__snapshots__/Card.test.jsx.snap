@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Test Card Call Correctly 1`] = `
+<section
+  className="card"
+>
+  <Memo()
+    classes="card__heart-icon"
+  />
+  <img
+    alt="cat"
+    className="card__image"
+  />
+  <div
+    className="card__image-detail"
+  >
+    <Memo()>
+      👍
+    </Memo()>
+    <Memo()>
+      👎
+    </Memo()>
+    2
+  </div>
+</section>
+`;

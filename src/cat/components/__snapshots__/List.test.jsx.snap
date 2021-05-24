@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Test List Call Correctly when list is available 1`] = `
+<Fragment>
+  <Memo() />
+  <Memo()>
+    <Memo()
+      id={1}
+      key="1"
+    />
+    <Memo()
+      id={2}
+      key="2"
+    />
+    <Memo()
+      id={3}
+      key="3"
+    />
+  </Memo()>
+</Fragment>
+`;
+
+exports[`List Test List Call Correctly when list is not available 1`] = `
+<Fragment>
+  <Memo() />
+  <Memo() />
+</Fragment>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatCard Test CatCard Call Correctly 1`] = `
+<Memo()
+  clickedDownVote={[Function]}
+  clickedUpVote={[Function]}
+  imageUrl="img.jpg"
+  likeClicked={[Function]}
+  liked={true}
+  totalVote={2}
+/>
+`;

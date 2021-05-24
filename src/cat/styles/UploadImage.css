@@ -1,0 +1,13 @@
+.upload-image {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.upload-image > .upload-image__error {
+  padding: 5px;
+  border: 1px solid #ef5350;
+  background: #e57373;
+  border-radius: 5px;
+}

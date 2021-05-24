@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TransparentButton Test TransparentButton Call Correctly 1`] = `
+<button
+  className="transparent-button "
+  type="button"
+>
+  test
+</button>
+`;
